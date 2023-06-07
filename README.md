@@ -1,4 +1,4 @@
-Python-Project-pillow-tesseract-and-opencv
+# Python-Project-pillow-tesseract-and-opencv
 
 This is a Python project that utilizes the libraries Pillow, Tesseract, and OpenCV to perform various image processing tasks. The project is implemented in a Jupyter Notebook file named p3_c5_project.ipynb.
 
