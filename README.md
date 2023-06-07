@@ -2,7 +2,7 @@
 
 This is a Python project that utilizes the libraries Pillow, Tesseract, and OpenCV to perform various image processing tasks. The project is implemented in a Jupyter Notebook file named p3_c5_project.ipynb.
 
-Project Description
+## Project Description
 
 The project is an image processing project that demonstrates the use of Pillow, Tesseract, and OpenCV libraries to perform several tasks on images. The project is implemented as a Jupyter Notebook and provides step-by-step instructions and explanations for each task.
 
